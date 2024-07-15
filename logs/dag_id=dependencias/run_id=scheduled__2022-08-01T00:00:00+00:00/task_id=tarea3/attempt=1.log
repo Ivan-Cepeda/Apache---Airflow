@@ -1,0 +1,24 @@
+[2024-07-15T23:50:30.105+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-07-15T23:50:30.138+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dependencias.tarea3 scheduled__2022-08-01T00:00:00+00:00 [queued]>
+[2024-07-15T23:50:30.149+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dependencias.tarea3 scheduled__2022-08-01T00:00:00+00:00 [queued]>
+[2024-07-15T23:50:30.150+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2024-07-15T23:50:30.167+0000] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): tarea3> on 2022-08-01 00:00:00+00:00
+[2024-07-15T23:50:30.173+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=629) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-07-15T23:50:30.174+0000] {standard_task_runner.py:63} INFO - Started process 631 to run task
+[2024-07-15T23:50:30.175+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'dependencias', 'tarea3', 'scheduled__2022-08-01T00:00:00+00:00', '--job-id', '11', '--raw', '--subdir', 'DAGS_FOLDER/dependencias.py', '--cfg-path', '/tmp/tmpcsidwg9l']
+[2024-07-15T23:50:30.176+0000] {standard_task_runner.py:91} INFO - Job 11: Subtask tarea3
+[2024-07-15T23:50:30.231+0000] {task_command.py:426} INFO - Running <TaskInstance: dependencias.tarea3 scheduled__2022-08-01T00:00:00+00:00 [running]> on host b0d76c530053
+[2024-07-15T23:50:30.340+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='dependencias' AIRFLOW_CTX_TASK_ID='tarea3' AIRFLOW_CTX_EXECUTION_DATE='2022-08-01T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2022-08-01T00:00:00+00:00'
+[2024-07-15T23:50:30.341+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-07-15T23:50:30.357+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2024-07-15T23:50:30.358+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', "echo 'me llamo tarea 3'"]
+[2024-07-15T23:50:30.373+0000] {subprocess.py:86} INFO - Output:
+[2024-07-15T23:50:30.374+0000] {subprocess.py:93} INFO - me llamo tarea 3
+[2024-07-15T23:50:30.375+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2024-07-15T23:50:30.375+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-07-15T23:50:30.402+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=dependencias, task_id=tarea3, run_id=scheduled__2022-08-01T00:00:00+00:00, execution_date=20220801T000000, start_date=20240715T235030, end_date=20240715T235030
+[2024-07-15T23:50:30.429+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-07-15T23:50:30.458+0000] {taskinstance.py:3498} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-07-15T23:50:30.460+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

@@ -1,0 +1,375 @@
+[2024-07-15T23:39:36.248+0000] {processor.py:161} INFO - Started process (PID=637) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:39:36.249+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:39:36.251+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:39:36.250+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:39:36.262+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:39:36.411+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:39:36.410+0000] {override.py:1829} INFO - Created Permission View: can delete on DAG:dependencias
+[2024-07-15T23:39:36.422+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:39:36.422+0000] {override.py:1829} INFO - Created Permission View: can edit on DAG:dependencias
+[2024-07-15T23:39:36.438+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:39:36.438+0000] {override.py:1829} INFO - Created Permission View: can read on DAG:dependencias
+[2024-07-15T23:39:36.439+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:39:36.439+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:39:36.452+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:39:36.452+0000] {dag.py:3118} INFO - Creating ORM DAG for dependencias
+[2024-07-15T23:39:36.466+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:39:36.466+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to 2022-08-01 00:00:00+00:00, run_after=2022-08-01 00:00:00+00:00
+[2024-07-15T23:39:36.486+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.244 seconds
+[2024-07-15T23:40:06.511+0000] {processor.py:161} INFO - Started process (PID=647) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:40:06.519+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:40:06.521+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:40:06.520+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:40:06.532+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:40:06.564+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:40:06.564+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:40:06.591+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:40:06.591+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to 2022-08-01 00:00:00+00:00, run_after=2022-08-01 00:00:00+00:00
+[2024-07-15T23:40:06.623+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.120 seconds
+[2024-07-15T23:40:36.782+0000] {processor.py:161} INFO - Started process (PID=657) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:40:36.784+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:40:36.787+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:40:36.787+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:40:36.796+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:40:36.827+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:40:36.826+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:40:36.856+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:40:36.856+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to 2022-08-01 00:00:00+00:00, run_after=2022-08-01 00:00:00+00:00
+[2024-07-15T23:40:36.889+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.114 seconds
+[2024-07-15T23:41:07.163+0000] {processor.py:161} INFO - Started process (PID=667) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:41:07.171+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:41:07.172+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:41:07.172+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:41:07.182+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:41:07.209+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:41:07.208+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:41:07.232+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:41:07.232+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to 2022-08-01 00:00:00+00:00, run_after=2022-08-01 00:00:00+00:00
+[2024-07-15T23:41:07.263+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.106 seconds
+[2024-07-15T23:41:37.608+0000] {processor.py:161} INFO - Started process (PID=677) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:41:37.608+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:41:37.610+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:41:37.610+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:41:37.620+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:41:37.651+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:41:37.650+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:41:37.696+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:41:37.696+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to 2022-08-01 00:00:00+00:00, run_after=2022-08-01 00:00:00+00:00
+[2024-07-15T23:41:37.747+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.147 seconds
+[2024-07-15T23:42:08.073+0000] {processor.py:161} INFO - Started process (PID=688) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:42:08.074+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:42:08.077+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:42:08.077+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:42:08.088+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:42:08.119+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:42:08.118+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:42:08.145+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:42:08.144+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to 2022-08-01 00:00:00+00:00, run_after=2022-08-01 00:00:00+00:00
+[2024-07-15T23:42:08.181+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.114 seconds
+[2024-07-15T23:42:38.485+0000] {processor.py:161} INFO - Started process (PID=699) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:42:38.492+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:42:38.494+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:42:38.494+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:42:38.506+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:42:38.536+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:42:38.535+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:42:38.560+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:42:38.560+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to 2022-08-01 00:00:00+00:00, run_after=2022-08-01 00:00:00+00:00
+[2024-07-15T23:42:38.591+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.112 seconds
+[2024-07-15T23:43:08.750+0000] {processor.py:161} INFO - Started process (PID=709) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:43:08.758+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:43:08.760+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:43:08.760+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:43:08.769+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:43:08.796+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:43:08.796+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:43:08.824+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:43:08.823+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to 2022-08-01 00:00:00+00:00, run_after=2022-08-01 00:00:00+00:00
+[2024-07-15T23:43:08.850+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.106 seconds
+[2024-07-15T23:43:39.024+0000] {processor.py:161} INFO - Started process (PID=719) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:43:39.025+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:43:39.027+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:43:39.027+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:43:39.043+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:43:39.074+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:43:39.073+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:43:39.098+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:43:39.098+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to 2022-08-01 00:00:00+00:00, run_after=2022-08-01 00:00:00+00:00
+[2024-07-15T23:43:39.119+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.102 seconds
+[2024-07-15T23:43:47.144+0000] {processor.py:161} INFO - Started process (PID=726) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:43:47.152+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:43:47.154+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:43:47.154+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:43:47.168+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:43:47.160+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/dependencias.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dependencias.py", line 24, in <module>
+    t3 = BashOperator(task_id="tarea3",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 484, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/bash.py", line 152, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 484, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 899, in __init__
+    task_group.add(self)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/task_group.py", line 232, in add
+    raise DuplicateTaskIdFound(f"{node_type} id '{key}' has already been added to the DAG")
+airflow.exceptions.DuplicateTaskIdFound: Task id 'tarea3' has already been added to the DAG
+[2024-07-15T23:43:47.169+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:43:47.196+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.058 seconds
+[2024-07-15T23:43:54.377+0000] {processor.py:161} INFO - Started process (PID=730) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:43:54.378+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:43:54.380+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:43:54.380+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:43:54.391+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:43:54.389+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/dependencias.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dependencias.py", line 24, in <module>
+    t4 = BashOperator(task_id="tarea3",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 484, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/bash.py", line 152, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 484, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 899, in __init__
+    task_group.add(self)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/task_group.py", line 232, in add
+    raise DuplicateTaskIdFound(f"{node_type} id '{key}' has already been added to the DAG")
+airflow.exceptions.DuplicateTaskIdFound: Task id 'tarea3' has already been added to the DAG
+[2024-07-15T23:43:54.392+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:43:54.414+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.044 seconds
+[2024-07-15T23:44:24.773+0000] {processor.py:161} INFO - Started process (PID=740) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:44:24.775+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:44:24.777+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:44:24.776+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:44:24.786+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:44:24.783+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/dependencias.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dependencias.py", line 24, in <module>
+    t4 = BashOperator(task_id="tarea3",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 484, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/bash.py", line 152, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 484, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 899, in __init__
+    task_group.add(self)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/task_group.py", line 232, in add
+    raise DuplicateTaskIdFound(f"{node_type} id '{key}' has already been added to the DAG")
+airflow.exceptions.DuplicateTaskIdFound: Task id 'tarea3' has already been added to the DAG
+[2024-07-15T23:44:24.788+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:44:24.812+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.047 seconds
+[2024-07-15T23:44:55.088+0000] {processor.py:161} INFO - Started process (PID=749) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:44:55.089+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:44:55.092+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:44:55.092+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:44:55.101+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:44:55.098+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/dependencias.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dependencias.py", line 24, in <module>
+    t4 = BashOperator(task_id="tarea3",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 484, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/bash.py", line 152, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 484, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 899, in __init__
+    task_group.add(self)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/task_group.py", line 232, in add
+    raise DuplicateTaskIdFound(f"{node_type} id '{key}' has already been added to the DAG")
+airflow.exceptions.DuplicateTaskIdFound: Task id 'tarea3' has already been added to the DAG
+[2024-07-15T23:44:55.102+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:44:55.124+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.044 seconds
+[2024-07-15T23:45:25.353+0000] {processor.py:161} INFO - Started process (PID=759) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:45:25.362+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:45:25.364+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:45:25.364+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:45:25.372+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:45:25.370+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/dependencias.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dependencias.py", line 24, in <module>
+    t4 = BashOperator(task_id="tarea3",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 484, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/bash.py", line 152, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 484, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 899, in __init__
+    task_group.add(self)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/task_group.py", line 232, in add
+    raise DuplicateTaskIdFound(f"{node_type} id '{key}' has already been added to the DAG")
+airflow.exceptions.DuplicateTaskIdFound: Task id 'tarea3' has already been added to the DAG
+[2024-07-15T23:45:25.373+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:45:25.404+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.061 seconds
+[2024-07-15T23:45:42.452+0000] {processor.py:161} INFO - Started process (PID=760) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:45:42.461+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:45:42.463+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:45:42.462+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:45:42.478+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:45:42.467+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/dependencias.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dependencias.py", line 16, in <module>
+    python_callable=print_hello)
+                    ^^^^^^^^^^^
+NameError: name 'print_hello' is not defined
+[2024-07-15T23:45:42.485+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:45:42.522+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.079 seconds
+[2024-07-15T23:45:55.687+0000] {processor.py:161} INFO - Started process (PID=770) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:45:55.688+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:45:55.689+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:45:55.688+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:45:55.699+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:45:55.697+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/dependencias.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dependencias.py", line 24, in <module>
+    t4 = BashOperator(task_id="tarea3",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 484, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/bash.py", line 152, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 484, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 899, in __init__
+    task_group.add(self)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/task_group.py", line 232, in add
+    raise DuplicateTaskIdFound(f"{node_type} id '{key}' has already been added to the DAG")
+airflow.exceptions.DuplicateTaskIdFound: Task id 'tarea3' has already been added to the DAG
+[2024-07-15T23:45:55.700+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:45:55.721+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.041 seconds
+[2024-07-15T23:46:25.993+0000] {processor.py:161} INFO - Started process (PID=781) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:46:25.995+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:46:25.995+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:46:25.995+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:46:26.004+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:46:26.001+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/dependencias.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dependencias.py", line 24, in <module>
+    t4 = BashOperator(task_id="tarea3",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 484, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/bash.py", line 152, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 484, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 899, in __init__
+    task_group.add(self)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/task_group.py", line 232, in add
+    raise DuplicateTaskIdFound(f"{node_type} id '{key}' has already been added to the DAG")
+airflow.exceptions.DuplicateTaskIdFound: Task id 'tarea3' has already been added to the DAG
+[2024-07-15T23:46:26.006+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:46:26.030+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.043 seconds
+[2024-07-15T23:46:56.271+0000] {processor.py:161} INFO - Started process (PID=791) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:46:56.272+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:46:56.273+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:46:56.273+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:46:56.282+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:46:56.279+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/dependencias.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dependencias.py", line 24, in <module>
+    t4 = BashOperator(task_id="tarea3",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 484, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/bash.py", line 152, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 484, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 899, in __init__
+    task_group.add(self)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/task_group.py", line 232, in add
+    raise DuplicateTaskIdFound(f"{node_type} id '{key}' has already been added to the DAG")
+airflow.exceptions.DuplicateTaskIdFound: Task id 'tarea3' has already been added to the DAG
+[2024-07-15T23:46:56.283+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:46:56.303+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.038 seconds
+[2024-07-15T23:47:25.421+0000] {processor.py:161} INFO - Started process (PID=799) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:47:25.428+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:47:25.429+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:47:25.429+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:47:25.441+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:47:25.574+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:47:25.574+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:47:25.595+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:47:25.595+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to 2022-08-01 00:00:00+00:00, run_after=2022-08-01 00:00:00+00:00
+[2024-07-15T23:47:25.625+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.211 seconds
+[2024-07-15T23:47:55.778+0000] {processor.py:161} INFO - Started process (PID=809) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:47:55.778+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:47:55.779+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:47:55.779+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:47:55.791+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:47:55.826+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:47:55.825+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:47:55.851+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:47:55.851+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to 2022-08-01 00:00:00+00:00, run_after=2022-08-01 00:00:00+00:00
+[2024-07-15T23:47:55.883+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.113 seconds
+[2024-07-15T23:48:26.117+0000] {processor.py:161} INFO - Started process (PID=819) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:48:26.124+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:48:26.125+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:48:26.125+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:48:26.137+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:48:26.169+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:48:26.168+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:48:26.197+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:48:26.195+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to 2022-08-01 00:00:00+00:00, run_after=2022-08-01 00:00:00+00:00
+[2024-07-15T23:48:26.232+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.123 seconds
+[2024-07-15T23:48:56.494+0000] {processor.py:161} INFO - Started process (PID=829) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:48:56.495+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:48:56.496+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:48:56.496+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:48:56.509+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:48:56.543+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:48:56.543+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:48:56.572+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:48:56.571+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to 2022-08-01 00:00:00+00:00, run_after=2022-08-01 00:00:00+00:00
+[2024-07-15T23:48:56.596+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.109 seconds
+[2024-07-15T23:49:26.842+0000] {processor.py:161} INFO - Started process (PID=839) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:49:26.852+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:49:26.853+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:49:26.853+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:49:26.871+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:49:26.912+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:49:26.912+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:49:26.945+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:49:26.944+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to 2022-08-01 00:00:00+00:00, run_after=2022-08-01 00:00:00+00:00
+[2024-07-15T23:49:26.970+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.136 seconds
+[2024-07-15T23:49:57.216+0000] {processor.py:161} INFO - Started process (PID=849) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:49:57.234+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:49:57.235+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:49:57.234+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:49:57.248+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:49:57.278+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:49:57.277+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:49:57.303+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:49:57.303+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to 2022-08-01 00:00:00+00:00, run_after=2022-08-01 00:00:00+00:00
+[2024-07-15T23:49:57.332+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.124 seconds
+[2024-07-15T23:50:06.409+0000] {processor.py:161} INFO - Started process (PID=852) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:50:06.410+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:50:06.411+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:50:06.411+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:50:06.423+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:50:06.558+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:50:06.558+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:50:06.581+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:50:06.581+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to 2022-08-01 00:00:00+00:00, run_after=2022-08-01 00:00:00+00:00
+[2024-07-15T23:50:06.614+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.211 seconds
+[2024-07-15T23:50:36.756+0000] {processor.py:161} INFO - Started process (PID=867) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:50:36.764+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:50:36.765+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:50:36.764+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:50:36.775+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:50:36.804+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:50:36.804+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:50:36.827+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:50:36.827+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to None, run_after=None
+[2024-07-15T23:50:36.857+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.108 seconds
+[2024-07-15T23:51:07.167+0000] {processor.py:161} INFO - Started process (PID=876) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:51:07.168+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:51:07.169+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:51:07.169+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:51:07.180+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:51:07.209+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:51:07.208+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:51:07.233+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:51:07.233+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to None, run_after=None
+[2024-07-15T23:51:07.266+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.105 seconds
+[2024-07-15T23:51:37.447+0000] {processor.py:161} INFO - Started process (PID=885) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:51:37.455+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:51:37.456+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:51:37.455+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:51:37.468+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:51:37.502+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:51:37.502+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:51:37.530+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:51:37.530+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to None, run_after=None
+[2024-07-15T23:51:37.561+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.121 seconds
+[2024-07-15T23:52:07.821+0000] {processor.py:161} INFO - Started process (PID=895) to work on /opt/airflow/dags/dependencias.py
+[2024-07-15T23:52:07.821+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dependencias.py for tasks to queue
+[2024-07-15T23:52:07.822+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:52:07.822+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:52:07.833+0000] {processor.py:840} INFO - DAG(s) 'dependencias' retrieved from /opt/airflow/dags/dependencias.py
+[2024-07-15T23:52:07.861+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:52:07.861+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-15T23:52:07.884+0000] {logging_mixin.py:188} INFO - [2024-07-15T23:52:07.884+0000] {dag.py:3954} INFO - Setting next_dagrun for dependencias to None, run_after=None
+[2024-07-15T23:52:07.931+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dependencias.py took 0.116 seconds
